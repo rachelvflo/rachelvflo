@@ -1,5 +1,5 @@
   👋 Hi, I’m @rachelvflo
 
-- I currently live in North Carolina, but I'm prepping for a move to sunny Arizona in a few weeks ☀️
-- I'm new to Github and the design team, so I'm learning a lot! 🤓
+- I joined GitHub in March of 2022. I work in Design Operations as an Executive Assistant.
+- I live in Sunny Arizona, where the summers are brutal 🥵 and the winters are dreamy ☀️
 - Outside of work I enjoy staying active 🏃‍♀️, hanging with my two big dogs 🦮, and dabbling in interior design 🛋. 
