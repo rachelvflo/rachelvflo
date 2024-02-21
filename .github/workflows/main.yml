@@ -1,0 +1,21 @@
+name: Monday Minutes
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  step:
+    name: Monday Minutes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: mamuso/weekly-update-action@main
+        with:
+          post_on: Tues
+          remind_on: Fri
+          title: Monday Minutes - {{date}}
+          category: General
+          repo: ${{ github.repository }}
+          token: ${{ secrets.GITHUB_TOKEN }}
